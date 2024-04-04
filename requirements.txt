@@ -1,0 +1,6 @@
+tokenizers==0.15.1
+spacy==3.7.3
+PyPDF2==3.0.1
+nltk==3.8.1
+langchain-community==0.0.19
+langchain==0.1.5
