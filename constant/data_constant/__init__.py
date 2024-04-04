@@ -1,13 +1,13 @@
-CONNECTION_STRING = "postgresql+psycopg2://postgres:saisri@127.0.0.1:5432/postgres"
+CONNECTION_STRING = ""
 COLLECTION_NAME = 'ml'
 
-folder_path = '/home/saisri/TestGpt/data/'
+folder_path = ''
 max_chunk_size=500
 
-DB_NAME = "postgres"
-DB_USER = "postgres"
-DB_PASSWORD = "saisri"
-DB_HOST = "127.0.0.1"
-DB_PORT="5432"
+DB_NAME = ""
+DB_USER = ""
+DB_PASSWORD = ""
+DB_HOST = ""
+DB_PORT=""
 
-url="https://www.ibm.com/topics/machine-learning"
+url=""
